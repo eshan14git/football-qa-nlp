@@ -9,8 +9,8 @@ This project is an NLP-based Football Question Answering Assistant developed for
 ## Team Members
 
 * Eshan Menuka
-* Tishan
-* Disath
+* Tishan Arunalu
+* Disath Tennakoon
 
 ## Features
 
