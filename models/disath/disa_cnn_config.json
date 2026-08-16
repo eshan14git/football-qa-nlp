@@ -1,0 +1,19 @@
+{
+    "max_vocabulary_size": 30000,
+    "effective_vocabulary_size": 22516,
+    "max_sequence_length": 25,
+    "embedding_dimension": 128,
+    "number_of_filters": 128,
+    "kernel_size": 3,
+    "dense_units": 64,
+    "dropout_rate": 0.4,
+    "number_of_classes": 5,
+    "intent_classes": [
+        "match_score",
+        "match_scorers",
+        "match_winner",
+        "player_match_goal_count",
+        "player_match_scoring_minutes"
+    ],
+    "random_state": 42
+}
